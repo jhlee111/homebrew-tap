@@ -1,9 +1,9 @@
 class ClaudePlans < Formula
   desc "Standalone viewer for Claude Code plans and project memory"
   homepage "https://github.com/jhlee111/claude_plans"
-  url "https://github.com/jhlee111/claude_plans/releases/download/v0.6.0/claude_plans_macos_arm"
-  sha256 "9752716cac71c3f79696fe0a2c700f115f232716d44618eb59e38e5171611304"
-  version "0.6.0"
+  url "https://github.com/jhlee111/claude_plans/releases/download/v0.6.1/claude_plans_macos_arm"
+  sha256 "363dc0172d181c208ed4a4f1d8ed5519970fb3e711f53e51684b1ae0989f9506"
+  version "0.6.1"
   license "MIT"
 
   depends_on arch: :arm64
